@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body{
+	height: 100%;
+}
+
+input[type=text]{
+    margin:15px;
+    padding:10px;
+}
+
+input[type=submit]{
+    background-color: darkcyan;
+    padding:10px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
